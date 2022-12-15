@@ -18,10 +18,12 @@
             background: black;
         }
         </style>
+	
+	
     </head>
     <body>
         <center><div class="stilo">
-  
+  <h1>BRAWO zalogowałeś się do naszej witryny internetowej<br>Strona tekst itd</h1>
         </div></center>
     </body>
 </html>
